@@ -1,0 +1,2 @@
+increase = true;
+modifyCoordX = false;

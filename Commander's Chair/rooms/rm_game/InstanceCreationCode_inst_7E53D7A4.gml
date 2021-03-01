@@ -1,0 +1,1 @@
+lightNumber = 2;

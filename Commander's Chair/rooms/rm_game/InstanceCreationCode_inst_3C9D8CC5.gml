@@ -1,0 +1,1 @@
+buttonDirection = 0;
