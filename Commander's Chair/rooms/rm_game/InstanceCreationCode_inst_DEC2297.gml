@@ -1,0 +1,1 @@
+consoleCode = 1;
